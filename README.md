@@ -2,4 +2,4 @@
 
 *(from Makers Academy PreCourse)*
 
-This is a collection of of some of the most useful shell commands
+This is a collection of some of the most useful shell commands
